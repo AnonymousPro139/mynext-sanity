@@ -69,6 +69,11 @@ export default createSchema({
           name: "title",
           type: "string",
         },
+        {
+          title: "Хичээлийн зураг",
+          name: "lessonPic",
+          type: "image",
+        },
       ],
     },
     {
